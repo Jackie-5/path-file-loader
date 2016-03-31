@@ -8,10 +8,6 @@
 
 Changes in the project file-loader
 
-### modifier
-
-[@JackieWu](https://github.com/Jackie-Web)
-
 ## Usage
 
 Keep the use of [file-loader](https://github.com/webpack/file-loader)
@@ -47,3 +43,7 @@ module.exports = {
    }
  };
  ```
+
+### modifier
+
+[@JackieWu](https://github.com/Jackie-Web)
