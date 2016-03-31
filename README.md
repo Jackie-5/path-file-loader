@@ -10,11 +10,11 @@ Changes in the project file-loader
 
 ### modifier
 
-@JackieWu[https://github.com/Jackie-Web]
+[@JackieWu](https://github.com/Jackie-Web)
 
 ## Usage
 
-Keep the use of file-loader[https://github.com/webpack/file-loader]
+Keep the use of [file-loader](https://github.com/webpack/file-loader)
 
 > Q: Why change the components?
 
@@ -30,7 +30,8 @@ Keep the use of file-loader[https://github.com/webpack/file-loader]
 
 > webpackConfig
 
-`module.exports = {
+```
+module.exports = {
    module: {
      loaders: [
        {
@@ -45,4 +46,4 @@ Keep the use of file-loader[https://github.com/webpack/file-loader]
      ]
    }
  };
- `
+ ```
