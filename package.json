@@ -1,0 +1,22 @@
+{
+  "name": "path-file-loader",
+  "version": "1.0.0",
+  "description": "path,file,path-file-loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webpack/file-loader.git"
+  }
+  "keywords": [
+    "path",
+    "file",
+    "path-file-loader"
+  ],
+  "author": {
+    "name": "Jackie Wu"
+  },
+  "license": "ISC"
+}
