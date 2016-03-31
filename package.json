@@ -8,8 +8,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/webpack/file-loader.git"
-  }
+    "url": "git@github.com:Jackie-Web/path-file-loader.git"
+  },
   "keywords": [
     "path",
     "file",
